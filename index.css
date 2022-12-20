@@ -1,0 +1,44 @@
+body{
+    background-color: #d5e1ef;
+    height: 800px;
+    width: 1440px;
+}
+#border{
+    width: 400px;
+    height: 600px;
+    border-radius: 5%;
+    background-color: #ffff;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 100px;
+
+}
+
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 10%;
+    padding: 25px;
+}
+
+h1{
+    text-align: center;
+    font-family: Outfit, sans-serif;
+    margin: 0px 25px 25px 25px;
+    font-size: 27px;
+    opacity: 0.8;
+
+}
+
+p{
+    text-align: center;
+    font-family: Outfit, sans-serif;
+    font-size: 15px;
+    margin: 0px 79px 25px 79px;
+    opacity: 0.5;
+    position: relative;
+    bottom: 15px;
+}
